@@ -1,0 +1,4 @@
+.card {}
+.card__title {}
+.card__image {}
+.card--featured {}
